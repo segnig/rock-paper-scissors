@@ -15,7 +15,7 @@ This project is a simple implementation of the classic game Rock-Paper-Scissors 
 ## How to Play
 
 1. Clone or download the project repository.
-2. Open the `index.html` file in a web browser.
+2. Open the `12-rock-paper-scissor.html` file in a web browser.
 3. Press 'r', 'p', or 's' keys to make your move against the computer.
 4. See the game result and updated score.
 5. Click on the "Reset Score" button to reset the score.
@@ -23,6 +23,6 @@ This project is a simple implementation of the classic game Rock-Paper-Scissors 
 
 ## Credits
 
-This project is created by [Your Name]. Feel free to customize and enhance it further.
+This project is created by Segni Girma. Feel free to customize and enhance it further.
 
 Enjoy playing Rock-Paper-Scissors! 🪨 📄 ✂️
